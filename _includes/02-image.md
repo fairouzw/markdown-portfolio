@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Meme](http://pngriver.com/wp-content/uploads/2018/04/Download-Challenge-Accepted-Meme-PNG.png)
